@@ -36,7 +36,7 @@ than editing the model, no additional work is needed at the Bot level.
 
 This component is responsible for providing a web based interface to interact with Lex. It is
 incorporated as a submodule and presented as an iframe in the dashboard-app. 
-The LexWebUi can be used as a component in other chat based applications.
+The LexWebUi can be used as a component in other chat based applications. 
 
 ## dashboard-app
 
